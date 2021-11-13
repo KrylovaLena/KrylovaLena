@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi , I'm Lena 👋
 
+<p align='center'>
+   📫 How to reach me: <a href='mailto:LJIO@mail.ru'>LJIO@mail.ru</a>
+</p>
 <!--
 **KrylovaLena/KrylovaLena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
